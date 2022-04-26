@@ -1,40 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@APURVTHECODER 
-Vortex-Corp
-/
-Tic-Tac-Toe
-Public
- Watch 2 Fork 2
- Star 1
-Code
-Issues
-1
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
- master 
-Tic-Tac-Toe/tictactoe.cpp
-Go to file
-@vatsa287
-vatsa287 doc: Add function doc-string
-…
-Latest commit 877e495 on Oct 7, 2021
- History
- 2 contributors
-@yellappa-s@vatsa287
-Executable File  511 lines (485 sloc)  9.95 KB
-RawBlame
-   
-//This code is contibuted by Shreevatsa N and Yellappa S.
 #include <GL/glut.h>
 #include <iostream>
 #include <math.h>
@@ -545,16 +508,3 @@ int main(int argc, char **argv)
 	glutMainLoop();
     return 0;
 }
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
